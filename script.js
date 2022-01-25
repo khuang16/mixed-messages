@@ -39,8 +39,8 @@ const randomItem = array => {
 // function to combine the random items into a message
 const displayMessage = () => {
     return (
-        randomItem(messages.names) + ' tells you to ' + 
-        randomItem(messages.practical) + '!\n' + 
+        randomItem(messages.names) + ' tells you to "' + 
+        randomItem(messages.practical) + '!"\n' + 
         'Your inspirational quote for today is: \n' + 
         randomItem(messages.inspiration) 
     );
