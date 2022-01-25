@@ -1,16 +1,16 @@
 // object containing array of names, messages, and 
 const messages = {
     names: [
-        'Susie Xu',
-        'Jeanne Hou',
-        'Fed Finjap',
-        'Amani Farooque',
-        'Sam Torres',
-        'Victor Dadfar',
-        'Chris Heagan',
-        "Wesley Jia",
-        "Alma Chang",
-        "Jukes Santra"
+        'Susie',
+        'Jeanne',
+        'Fed',
+        'Amani',
+        'Sam',
+        'Victor',
+        'Chris',
+        "Wesley",
+        "Alma",
+        "Jukes"
     ],
     inspiration: [
         'Have more fear of regret than failure.',
